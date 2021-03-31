@@ -1,0 +1,1 @@
+print(*('zwjzsq@qq.com', 'zwjzsq', '123456', '13800138000'))
