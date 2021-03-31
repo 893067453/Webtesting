@@ -51,6 +51,7 @@ class ReadExcel(object):
         write_data.get_sheet(self.index).write(row, col, value)
         write_data.save('../excel/register_keyword.xls')
         write_data.save(self.excel_path)
+        print('修改测试')
 
 
 if __name__ == "__main__":
